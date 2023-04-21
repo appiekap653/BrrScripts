@@ -1,2 +1,2 @@
-# brrscripts
+# BrrScripts
 Scripts for autobrr
